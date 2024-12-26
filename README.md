@@ -7,6 +7,26 @@ The project provides an excellent example of working with sports datasets and sh
 
 ---
 
+## Database Size Overview
+
+| **Table**     | **Total Rows** | **Total Columns** |
+|---------------|----------------|-------------------|
+| **matches**   | 947,720        | 81                |
+| **players**   | 65,019         | 8                 |
+| **rankings**  | 3,235,639      | 4                 |
+
+### Insights:
+- **Matches Table**:
+  - Contains nearly 1 million rows with 81 columns, offering detailed match statistics and metadata.
+  
+- **Players Table**:
+  - Includes 65,019 unique players with data such as names, nationality, and handedness.
+
+- **Rankings Table**:
+  - Tracks player rankings over time, featuring over 3 million rows, each representing a player's rank at a specific time.
+
+---
+
 ## Languages and Utilities Used
 - **SQL**
 - **Python** (for querying and visualizations)
