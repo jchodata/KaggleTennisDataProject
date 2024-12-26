@@ -14,7 +14,6 @@ The project provides an excellent example of working with sports datasets and sh
 ---
 
 ## Environments Used
-- **Windows 10**
 - **SQLite** (via `%sql` magic in Jupyter Notebook)
 
 ---
@@ -35,18 +34,6 @@ The project provides an excellent example of working with sports datasets and sh
 #### c. **Winning Percentages**
 - Calculate all-time winning percentages for right-handed vs. left-handed players to explore how playing style impacts outcomes.
 
-### 3. Key Insights & Visualizations
-<p align="center">
-<b>Top Players by Points:</b> <br/>
-<img src="https://via.placeholder.com/800x400.png" height="80%" width="80%" alt="Top Players by Points"/>
-<br/><br/>
-<b>Yearly Rankings:</b> <br/>
-<img src="https://via.placeholder.com/800x400.png" height="80%" width="80%" alt="Yearly Rankings"/>
-<br/><br/>
-<b>Winning Percentages:</b> <br/>
-<img src="https://via.placeholder.com/800x400.png" height="80%" width="80%" alt="Winning Percentages"/>
-</p>
-
 ---
 
 ## How to Use
@@ -54,3 +41,8 @@ The project provides an excellent example of working with sports datasets and sh
    ```bash
    git clone https://github.com/your-username/tennis-data-analysis.git
    cd tennis-data-analysis
+2. Set up the environment:
+- Install required Python libraries (numpy, pandas, prettytable, matplotlib, etc.).
+3. Run the Jupyter Notebook:
+- Open the notebook and follow the steps to reproduce the analysis.
+4. Modify or extend the SQL queries and visualizations to explore additional insights.
